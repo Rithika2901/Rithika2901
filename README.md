@@ -3,7 +3,7 @@
 - 👀 I’m curious about **Data Science, AI magic, and making sense of chaos through analytics**  
 - 🌱 Currently diving deep into **MLOps, Generative AI, and building powerful data pipelines**  
 - 💞️ Open to collaborating on **cool ML projects, real-world data challenges, or anything with a spark of innovation**  
-- 📫 You can reach me at **rithikotha2901@gmail.com** or drop a message on [LinkedIn](https://www.linkedin.com/in/rithikakothapalli/)  
+- 📫 You can reach me at **rithikak097@gmail.com** or drop a message on [LinkedIn](https://www.linkedin.com/in/rithikakothapalli/)  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: I once built a **sentiment analysis bot** that replied sassier than I do! 😎  
 
